@@ -2,7 +2,7 @@
 -------------------------------------------------------------------------------------------------------------------------------------
 - 👋 Hola Soy Yesica Mendez administradora de empresas y cientifica de datos en formacion, apasionada por la tecnología,
 con habilidades en  estadistica, SQL, ETL, Python, Pandas, Numpy, Apache Hadoop, power Bi, cloud GCP, Airflow, matplotlib,
-y la reación de pipelines de datos. Con un año de experiencia laboral en empresas de software, estoy explorando el fascinante
+y la creación de pipelines de datos. Con un año de experiencia laboral en empresas de software, estoy explorando el fascinante
 mundo de data Science y Data Analytics.
 ------------------------------------------------------------------------------------------------------------------------------------- 
 Acerca de mí
